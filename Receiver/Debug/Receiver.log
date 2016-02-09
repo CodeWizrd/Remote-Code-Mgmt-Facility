@@ -1,0 +1,19 @@
+﻿Build started 4/28/2015 11:36:50 PM.
+     1>Project "E:\VisualStudioPeojects\MPComm\Receiver\Receiver.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         G:\Software Installs\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\FileSystem\FileSystem.cpp
+         FileSystem.cpp
+       Link:
+         G:\Software Installs\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VisualStudioPeojects\MPComm\Debug\Receiver.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VisualStudioPeojects\MPComm\Debug\Receiver.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VisualStudioPeojects\MPComm\Debug\Receiver.lib" /MACHINE:X86 Debug\Display.obj
+         Debug\FileSystem.obj
+         Debug\Message.obj
+         Debug\ServerExecutive.obj
+         Debug\Server.obj
+         Debug\Sockets.obj
+         Debug\Receiver.obj
+         Receiver.vcxproj -> E:\VisualStudioPeojects\MPComm\Debug\Receiver.exe
+     1>Done Building Project "E:\VisualStudioPeojects\MPComm\Receiver\Receiver.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.22
